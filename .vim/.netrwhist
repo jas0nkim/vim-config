@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/opt/local/apache2/htdocs'
+let g:netrw_dirhist_2='/Users/jasonkim/Development/vython'
+let g:netrw_dirhist_3='/Users/jasonkim/VagrantInstances/spirit/modules/apache'
+let g:netrw_dirhist_4='/Users/jasonkim/VagrantInstances/spirit/modules/apache/manifests'
+let g:netrw_dirhist_5='/Users/jason/.vim/colors'
